@@ -13,7 +13,7 @@ The technologies used to create this app include:
   This app is deployed using Heroku, please follow the link to use the deployed application: https://jfnotesaver.herokuapp.com/
   
   The server set up for the app is contained in the server.js file. This file is also setting up the middleware as well as the html and api routers.
-  ![server screenshot](11-express\02-Homework\jf-note-saver\assets\note saver server.PNG)
+  ![server screenshot](https://github.com/JerryForsberg/jf-note-saver/blob/master/assets/note%20saver%20server.PNG)
   
   The html router is using get to send the index html page and notes html page to the user. 
   
